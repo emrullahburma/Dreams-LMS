@@ -257,6 +257,11 @@ body {
     padding: 0 3%;
   }
   .footer {
+    transition: ease 0.3s;
+    padding: 30px 3%;
+  }
+  .about {
+    transition: ease 0.3s;
     padding: 30px 3%;
   }
 }
